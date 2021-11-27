@@ -1,0 +1,17 @@
+@import "font.css";
+
+h1 {
+  color: blue;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+}
+.logo {
+  height: 100px;
+  width: 300px;
+  margin: 0 auto;
+  background: url("../img/Logo1.svg");
+}
+p {
+  color: chartreuse;
+  text-align: center;
+}
